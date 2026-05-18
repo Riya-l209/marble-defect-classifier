@@ -4,6 +4,7 @@
 This project implements a multiclass image classification model to detect defects in marble surfaces using a Convolutional Neural Network (CNN) built from scratch in PyTorch.
 
 ## 📂 Dataset
+Downloaded from:- https://www.kaggle.com/datasets/wardaddy24/marble-surface-anomaly-detection-2
 - Classes: crack, dot, good, joint
 - Predefined train/test split
 - Validation split created from training data
